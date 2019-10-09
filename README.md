@@ -1,4 +1,4 @@
-# StandfordCS224n_2017-2018
+# StandfordCS224n_2019
 This repo record my learning process of Standford CS224n.  
 Every code example and slide come form Standford CS224n course website.  
 If there exist any intellectual property rights issue, please inform me and i will remove this repo.  
